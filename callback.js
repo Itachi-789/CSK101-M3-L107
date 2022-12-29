@@ -24,5 +24,5 @@ function createCookie(){
 }
 
 
-// Progression 5: calling function
+// Progression 5: calling function 
 createCookie()
